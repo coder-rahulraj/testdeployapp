@@ -1,5 +1,4 @@
 import React from 'react'
-import Navites from './Navites'
 
 const About = () => {
     return (

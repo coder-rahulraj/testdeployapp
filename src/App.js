@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+
 import "./App.css";
 import {
   createBrowserRouter,
@@ -10,12 +10,10 @@ import {
 } from "react-router-dom";
 import Header from "./components/Header";
 import Body from "./components/Body";
-import Content from "./components/Content";
 import Watch from "./components/Watch";
 import Footer from "./components/Footer";
 import About from "./components/About";
 import Contact from "./components/Contact";
-import Navites from "./components/Navites";
 
 // const appRouter=createBrowserRouter([
 //   {

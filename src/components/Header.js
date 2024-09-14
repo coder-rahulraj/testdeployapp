@@ -1,6 +1,5 @@
 import React from 'react'
 import { FaUserAlt } from "react-icons/fa";
-// import Navites from './Navites';
 import About from './About'
 import Body from './Body'
 import { Link } from 'react-router-dom'
