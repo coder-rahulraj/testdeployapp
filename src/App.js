@@ -38,7 +38,7 @@ function App() {
     <div className=" overflow-x-hidden">
       <Header />
       <Routes>
-        <Route path="/" element={<Body />} />
+        <Route exact path="/testdeployapp" element={<Body />} />
         <Route path="/watch" element={<Watch />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
