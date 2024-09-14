@@ -1,12 +1,8 @@
 
 import "./App.css";
 import {
-  createBrowserRouter,
-  RouterProvider,
-  HashRouter,
   Routes,
   Route,
-  BrowserRouter,
 } from "react-router-dom";
 import Header from "./components/Header";
 import Body from "./components/Body";
